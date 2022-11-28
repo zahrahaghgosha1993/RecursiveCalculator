@@ -1,6 +1,7 @@
 
 class AckermanCalculator():
 
+
     def ackerman(self,m, n):
         if m == 0:
             return n + 1
